@@ -1,4 +1,4 @@
-# College of Platform - Performance HOL: Alternate Business Title
+# College of Platform  - Performance HOL: Alternate Business Title
 **Brief tagline emphasizing outcome or theme.**
 
 ![Lab Architecture](images/architecture_diagram.png)
