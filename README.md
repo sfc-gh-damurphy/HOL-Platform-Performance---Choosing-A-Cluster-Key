@@ -1,5 +1,5 @@
-# College of XX XXX HOL: Alternate Business Title
-**Brief tagline emphasizing outcome or theme.**
+# College of Platform - Performance HOL: Chooseing a Cluster Key
+**The art and science of choosing a cluster key with Snowflake**
 
 ![Lab Architecture](images/architecture_diagram.png)
 
