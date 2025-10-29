@@ -12,7 +12,10 @@ Watch the [X-minute Lab Overview Video](overview.mp4) for a detailed walkthrough
 
 ## 🛠️ Hands-On Lab Overview
 
-In this hands-on lab, you'll step into the shoes of **XXX** tasked with **XXX**.
+In this hands-on lab, you'll step into the shoes of **DBA** tasked with **Getting Better Performance**.
+
+This quickstart focuses on the process of choosing a clustering key for a table and workload in Snowflake. You will get out of this quickstart what you put into it. Simply copying and pasting the commands won't lead to as many insights as doing your own experimentation and exploring the concepts here on your own data and workloads.
+
 
 ### 📋 What You’ll Do:
 List of 4–6 concrete tasks participants will complete. Clearly bold important terms.
