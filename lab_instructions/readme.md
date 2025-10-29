@@ -289,8 +289,7 @@ WHERE execution_status='SUCCESS'
 GROUP BY query_tag
 ORDER BY query_tag;
 
- select * from cluster_results where query_tag LIKE 'query%_base';
-v
+Select * from cluster_results where query_tag LIKE 'query%_base';
 ```
 
 An example of what this output might look like:
