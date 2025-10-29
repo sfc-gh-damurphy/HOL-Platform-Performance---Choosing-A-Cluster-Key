@@ -1,8 +1,6 @@
 # College of Platform - Performance HOL: Chooseing a Cluster Key
 **The art and science of choosing a cluster key with Snowflake**
 
-![Lab Architecture](images/architecture_diagram.png)
-
 ---
 
 ## 🎬 Lab Overview Video
