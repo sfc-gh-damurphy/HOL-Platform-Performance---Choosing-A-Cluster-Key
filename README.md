@@ -78,7 +78,7 @@ Provide **5 to 6 open-ended questions** for customer conversations related to th
 ```bash
 ├── README.md           # Main entry point
 ├── config/             # Configuration for DORA and Grading
-├── images/             # Diagrams and visual assets
+├── images/             # Images for the Lab Instructions
 ├── lab_instructions/   # Step-by-step detailed instructions
 └── troubleshooting/    # Common issues and resolutions
 ```
