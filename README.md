@@ -12,7 +12,7 @@ Watch the [X-minute Lab Overview Video](overview.mp4) for a detailed walkthrough
 
 In this hands-on lab, you'll step into the shoes of **DBA** tasked with **Getting Better Performance**.
 
-This lab focuses on the process of choosing a clustering key for a table and workload in Snowflake. You will get out of this quickstart what you put into it. Simply copying and pasting the commands won't lead to as many insights as doing your own experimentation and exploring the concepts here on your own data and workloads.
+This lab focuses on the process of choosing a clustering key for a table and workload in Snowflake. 
 
 
 ### 📋 What You’ll Do:
@@ -29,7 +29,7 @@ This lab focuses on the process of choosing a clustering key for a table and wor
 
 ### ⏲️ Estimated Lab Timeline
 
->A lot of this lab time is the building of objects because they are large as that is what is needed for the lab.  When creating the tables expect a decent amount of time (15 mins or so) per table to build
+>Expect significant lab time for building large database objects. Table creation typically takes around 15 minutes per table due to their size.
 
 - **Phase 1 (Env Setup and Creation):** ~30 min
 - **Phase 2 (Analysis of best clustering):** ~75 min
@@ -42,12 +42,13 @@ This lab focuses on the process of choosing a clustering key for a table and wor
 
 ## 📖 Table of Contents
 
+- [Lab Instructions](/lab_instructions/readme.md)
 - [Why this Matters](#-why-this-matters)
 - [Suggested Discovery Questions](#-suggested-discovery-questions)
 - [Repository Structure](#-repository-structure)
 - [Prerequisites & Setup Details](#-prerequisites--setup-details)
-- [Estimated Lab Timeline](#-estimated-lab-timeline)
-- [Troubleshooting & FAQ](#-troubleshooting--faq)
+- [Estimated Lab Timeline](#️-estimated-lab-timeline)
+- [Troubleshooting & FAQ](#️-troubleshooting--faq)
 - [Cleanup & Cost-Stewardship Procedures](#-cleanup--cost-stewardship-procedures)
 - [Links to Internal Resources & Helpful Documents](#-links-to-internal-resources--helpful-documents)
 
@@ -56,7 +57,7 @@ This lab focuses on the process of choosing a clustering key for a table and wor
 ## 📌 Why this Matters
 
 - **Business value:** Clustering correctly allows for better performance of queries which can lead to more cost effecient quieries as well as better user experience
-- **Pricing impact:** Clustering can drastically reduce time for compute which has a direct influence on the cost for the customer
+- **Pricing impact:** Clustering can drastically reduce time for compute which has a direct influence on the cost for the customer, incorrect clustering can cost extra money as well as not helping performance very much
 
 ---
 
@@ -102,8 +103,6 @@ Common errors and resolutions:
 **Cause:** 
 **Solution:** 
 
-
-
 ---
 
 ## 🧹 Cleanup & Cost-Stewardship Procedures
@@ -115,7 +114,6 @@ DROP database IF EXISTS [clustering_exp];
 DROP warehouse IF EXISTS [clustering_qs_2xl_wh];
 DROP warehouse IF EXISTS [clustering_qs_l_wh];
 ``` 
-
 ---
 
 ## 🔗 Links to Internal Resources & Helpful Documents
