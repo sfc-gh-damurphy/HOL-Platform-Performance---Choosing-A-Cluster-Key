@@ -37,6 +37,8 @@ This lab focuses on the process of choosing a clustering key for a table and wor
 - **Phase 2 (Analysis of best clustering):** ~75 min
 - **Phase 3 (Monitoring & cleanup):** ~15 min
 - **Phase 4 (DORA Grading):** ~5 min
+
+### 🛠️ [Lab Instructions](/lab_instructions/readme.md) 🛠️
   
 ---
 

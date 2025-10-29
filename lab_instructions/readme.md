@@ -1275,6 +1275,7 @@ This methodology works up to a size somewhere between 250,000 and about 500,000 
 We can see in the query profile that while there was local spilling, there was no remote spilling for this `INSERT OVERWRITE` ... operation:
 
 ![statistics pane from the query profile for the overwrite operation]
+
 <img src="/images/image012.jpg" width="40%">
 
 We then still want to enable automatic clustering for this table so that clustering will be maintained for new data and as data is changed. That can be done using this syntax:
