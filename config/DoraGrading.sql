@@ -29,4 +29,4 @@ FROM (
 );
 
 
---If all validations return ✅, you have completed the Snowflake Intelligence Lab 🎉
+--If all validations return ✅, you have completed the Platform Performance - Choosing a Cluster Key HOL 🎉
